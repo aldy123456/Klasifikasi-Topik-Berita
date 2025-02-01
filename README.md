@@ -1,6 +1,6 @@
 # Klasifikasi Topik Berita
 
-Proyek ini menggunakan teknik pembelajaran mesin untuk mengklasifikasikan berita ke dalam empat kategori utama: **Tech**,**Business**,**Entertainment**, dan **Sport**, yang berfokus pada berita olahraga dari berbagai cabang dan kompetisi. Dataset yang digunakan terdiri dari **2.127 artikel berita** yang diambil dari Kaggle. Dengan mengenali ciri khas setiap topik, proyek ini dapat membantu pengelolaan informasi, mempermudah pencarian berita sesuai minat pengguna, dan menjadi dasar untuk pengembangan sistem rekomendasi yang lebih personal.
+Proyek ini menggunakan teknik pembelajaran mesin untuk mengklasifikasikan berita ke dalam empat kategori utama: **Tech**,**Business**,**Entertainment**, dan **Sport**. Dataset yang digunakan terdiri dari **2.127 artikel berita** yang diambil dari Kaggle. Dengan mengenali ciri khas setiap topik, proyek ini dapat membantu pengelolaan informasi, mempermudah pencarian berita sesuai minat pengguna, dan menjadi dasar untuk pengembangan sistem rekomendasi yang lebih personal.
 
 Tujuan Proyek
 
